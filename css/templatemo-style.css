@@ -52,19 +52,19 @@ a:hover {
 }
 
 .tm-bg-green {
-  background-color: #98cb00;
+  background-color: #c4f073;
 }
 
 .tm-bg-orange {
-  background-color: #cc6733;
+  background-color: #6aa9f1;
 }
 
 .tm-bg-blue {
-  background-color: #3398cc;
+  background-color: #a38df1;
 }
 
 .tm-bg-dark-gray {
-  background-color: #676767;
+  background-color: #f1abab;
 }
 
 /*
@@ -133,7 +133,7 @@ a:hover {
 
 .tm-welcome-right {
   color: white;
-  background-color: #986665;
+  background-color: #4675ee;
   padding: 80px 43px 70px;
   height: 100%;
 }
@@ -190,7 +190,7 @@ a:hover {
 }
 
 .tm-text-dark-gray {
-  color: #676767;
+  color: #4675ee;
 }
 
 .tm-title-small {
@@ -258,14 +258,14 @@ p {
 }
 
 .tm-btn-submit {
-  background-color: #999999;
+  background-color: #4675ee;
   padding: 12px 30px;
   font-size: 1.2rem;
 }
 
 .tm-btn-submit:focus,
 .tm-btn-submit:hover {
-  background-color: #676767;
+  background-color: #7187f4;
 }
 
 .tm-copyright-text {
